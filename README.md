@@ -1,5 +1,5 @@
 # Melon-Playground-Mods
-Download all Melon Playground mods from Marllabas.com. Just copy and open it on your web browser. Every mod works flawlessly.
+Download all Melon Playground mods from Marllabas.com. Just copy and open the website on your browser. Every mod there works flawlessly.
 
 ![melon playground mods](https://i.postimg.cc/dVCkJRFK/1.png)
 
